@@ -1,0 +1,12 @@
+⭐️ Timestamps ⭐️
+ 
+1) Excel 
+2) Statistics
+3) Python or R
+4) Visualization library
+5) Exploratory data analysis
+6) Machine learning
+7) Deep Learning
+8) SQL & MongoDB
+9) BI tools
+10) Soft skills
